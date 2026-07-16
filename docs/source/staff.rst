@@ -2,10 +2,9 @@ Staff
 ========
 Welcome! Here you can read a bit about the staff here.
 
-Big Dawg
+Conductor
 ````````
-The bigshot cryptids
-
+Your dream eating train conductor!
 Oiivae
 ''''''
 .. image:: icons/ovi.png
@@ -15,7 +14,7 @@ Ovi, everyones favorite keter-classed neckogecko
 https://www.twitch.tv/oiivae
 
 
-Administrative Team
+Engineers
 ``````
 Manages the moderation team and behind the scenes stuff
 
@@ -46,7 +45,7 @@ I'm an artist who needs to art more lol!! I play a lot of games most of my free 
 
 https://www.twitch.tv/sweetkitsu
 
-Senior Moderators
+Passenger Directors (Sr Mods)
 ````````
 These are the mods that have more experience and expect to be a in a supervisory role.
 
@@ -78,7 +77,7 @@ https://www.twitch.tv/lunarese
 
 
 
-Field Agent (Moderators)
+Car Attendants (Moderators)
 ```````
 The frontline moderators! 
 
