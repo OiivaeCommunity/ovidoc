@@ -27,7 +27,7 @@ nerdyjohnny
 .. image:: icons/oobvae.png
     :width: 36px
     :height: 36px
-Johnny, 25, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
+Johnny, 28, the nerd who trys his best at paramedicine. Lives in NC, USA (EST) with 3 cats: Yuri, Gordon, and Grey. Also fostering Luna the cat. Streams sometimes and has known Ovi waaaayyy too long. Therefore, he gets to be the mega thorn in her side and make streaming hell.
 
 
 https://www.twitch.tv/nerdyjohnny
@@ -75,9 +75,6 @@ I'm in the EST timezones, you can feel free to ask me about anything! Remember t
 https://www.twitch.tv/lunarese
 
 
-Maintenance (Game Moderators)
-```````
-These are moderators whose primary focus is the game servers.
 
 
 
@@ -85,13 +82,25 @@ Field Agent (Moderators)
 ```````
 The frontline moderators! 
 
+Kuma
+''''''
+.. image:: icons/mod.png
+https://www.twitch.tv/kaiyuukuma
 
+Krakka
+''''''
+.. image:: icons/mod.png
+https://www.twitch.tv/krakkacafe
 
+Pahi
+''''''
+.. image:: icons/mod.png
+https://www.twitch.tv/pahichannel
 
-Secret Agent
-````````````
-They are sneaky. If you know who they are, then you know who they are
-
+Wolsk
+''''''
+.. image:: icons/mod.png
+https://www.twitch.tv/wolsk
 
 
 

@@ -1,7 +1,7 @@
 Welcome to Oiivae's Community!
 ===================================
 
-Here you can find out all the info needed for the mincraft servers from rules, commands, lore, and tips! Also discord info is located here!
+Here you can find out all the community info!
 
 
 .. note:: This project is under active development.
