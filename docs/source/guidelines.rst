@@ -42,9 +42,9 @@ Hate Speech/Doxxing: Ban
 
 Punishment Appeals
 ``````
-Punishment/Ban appeals can be submitted at http://discord.gg/Erg3fCV7zh in the #ban-appeal channel.
+Punishment/Ban appeals can be submitted at in the #ban-appeal channel.
 
-If you are banned from the discord and wish to appeal your ban, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
+If you are banned from the discord or unable to access and wish to appeal your ban, open a issue at https://github.com/nerdyjohnny/ovicommunity/issues
 
 Please incluse any of your usernames, the reason you were punished, and why you feel like the punishment was unjust or why you feel like you are ready to return to the community.
 
@@ -59,4 +59,4 @@ Staff is held to a standard and expected to follow the rules in order to enforce
 3. No abuse of powers.
 4. Use common sense.
 
-.. important:: If you see a staff member breaking any of these standards, open a Staff Complaint in #report-a-mod in the discord. http://discord.gg/Erg3fCV7zh 
+.. important:: If you see a staff member breaking any of these standards, open a Staff Complaint in #report-a-mod in the discord.
